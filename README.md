@@ -1,2 +1,1 @@
-# VNGbot
-This is a test.
+https://github.com/Nabrok/gw2-discord-bot.git
